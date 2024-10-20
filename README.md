@@ -42,15 +42,19 @@ To get started with the project, follow these steps:
 
 2. **Navigate into the project directory:**
 
-````bash
- cd employee-management-app
+```bash
+cd employee-management-app
+
+```
 
 3. **Install dependencies:**
 
-Make sure you have [Node.js]((https://nodejs.org/en)) installed. Then, install the project dependencies by running:
+Make sure you have [Node.js](<(https://nodejs.org/en)>) installed. Then, install the project dependencies by running:
 
 ```bash
- npm install
+npm install
+
+```
 
 ## Running the Application
 
@@ -58,8 +62,10 @@ To run the application locally for development:
 
 1. **Start the development server**:
 
- ```bash
- npm start
+```bash
+npm start
+
+```
 
 This will start a local development server, and the application will be accessible at http://localhost:9000 (or another available port).
 
@@ -75,13 +81,13 @@ Unit tests have been provided for key components of the application. To run the 
 
 1. **Run the test suite:**:
 
- ```bash
- npm test
+```bash
+npm test
+
+```
 
 This will execute all the tests in the project with coverage, using the [web-test-runner](https://modern-web.dev/docs/test-runner/overview/).
-
 
 ## Conclusion
 
 This Employee Management Application provides basic functionality for managing employee records with support for multiple languages. The project is easy to set up and run locally, and it includes unit tests to ensure reliability. The application can be further enhanced by adding more features or improving the user interface as needed.
-````
